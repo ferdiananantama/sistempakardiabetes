@@ -1,0 +1,90 @@
+.banner {
+  width: 1251px;
+  height: 531px;
+  border-radius: 35px;
+}
+.banner2{
+  width: 1251px;
+  height: 1950px;
+  border-radius: 35px;
+}
+.banner3 {
+  width: 1251px;
+  height: 1950px;
+  border-radius: 25px;
+}
+.banner4 {
+  width: 800px;
+  height: 700px;
+}
+.awal {
+  background-image: url(/img/1.jpg);
+  background-size: contain;
+  border-radius: 8px;
+}
+.tombol {
+  margin-top: 15%;
+  width: 300px;
+  height: 80px;
+  color: white;
+  font-size: x-large;
+  background-color: #f58585;
+  font-weight: bold;
+  border-radius: 8px;
+}
+.tombol:hover {
+  background: #8abef1;
+  color: black;
+}
+.next {
+  color: white;
+  background-color: #f58585;
+  border-radius: 8px;
+}
+.next:hover {
+  background: #8abef1;
+  color: black;
+}
+.dokter {
+  margin-left: 200px;
+  padding-top: 2%;
+  width: 350px;
+  height: 400px;
+}
+.info {
+  color: #ffff;
+  margin-top: 10px;
+  background-color: #f58585;
+}
+.diabetes {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.gambar {
+  background-image: url(/img/3.jpg);
+  background-size: contain;
+}
+.faktor {
+  background-image: url(/img/4.jpg);
+  background-size: contain;
+}
+.factor {
+  color: #ffff;
+  background-color: #0a0544;
+}
+.kompilasi {
+  color: #ffff;
+  background-color: #f58585;
+}
+.tkomp {
+  padding-top: 230px;
+  padding-bottom: 230px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.gkomp {
+  background-image: url(/img/5.jpg);
+  background-size: contain;
+}
